@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4bae21976da876f49ac8410a6ea2ad1b
+timeCreated: 1490700459
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: STSong
+  fontNames:
+  - STSong
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
